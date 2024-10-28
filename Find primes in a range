@@ -1,3 +1,5 @@
+A=int(input())
+B=int(input())
 def is_prime(a):
     if a<=1:
         return False
