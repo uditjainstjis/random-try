@@ -1,5 +1,6 @@
 A=int(input())
 B=int(input())
+print_primes_in_range(A, B)
 def is_prime(a):
     if a<=1:
         return False
